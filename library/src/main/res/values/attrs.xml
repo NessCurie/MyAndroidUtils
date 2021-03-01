@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <declare-styleable name="SwitchButton" tools:ignore="ResourceName">
+        <attr name="thumbDrawable" format="reference" />
+        <attr name="thumbColor" format="color|reference" />
+        <attr name="thumbMargin" format="dimension|reference" />
+        <attr name="thumbMarginTop" format="dimension|reference" />
+        <attr name="thumbMarginBottom" format="dimension|reference" />
+        <attr name="thumbMarginLeft" format="dimension|reference" />
+        <attr name="thumbMarginRight" format="dimension|reference" />
+        <attr name="thumbWidth" format="dimension|reference" />
+        <attr name="thumbHeight" format="dimension|reference" />
+        <attr name="thumbRadius" format="dimension|reference" />
+        <attr name="backRadius" format="dimension|reference" />
+        <attr name="backDrawable" format="reference" />
+        <attr name="backColor" format="color|reference" />
+        <attr name="fadeBack" format="boolean" />
+        <attr name="thumbRangeRatio" format="float" />
+        <attr name="animationDuration" format="integer" />
+        <attr name="tintColor" format="color|reference" />
+        <attr name="textOn" format="string" />
+        <attr name="textOff" format="string" />
+        <attr name="textThumbInset" format="dimension" />
+        <attr name="textExtra" format="dimension" />
+        <attr name="textAdjust" format="dimension" />
+    </declare-styleable>
+
+</resources>

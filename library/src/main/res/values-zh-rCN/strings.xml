@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crash_hint">很抱歉,程序出现异常,即将重启应用.</string>
+    <string name="screen_test_hint">进行触摸检测,请触摸经过所有空格</string>
+    <string name="screen_test_passed_hint">触摸测试通过,进行坏点检测,点击屏幕切换颜色或</string>
+    <string name="screen_test_passed_hint2">秒自动切换</string>
+
+    <string name="wifi_error">出错</string>
+    <string name="wifi_sap_no_channel_error">在此国家/地区无法使用 5 GHz 频段</string>
+    <string name="opening">打开中...</string>
+    <string name="closing">关闭中...</string>
+    <string name="closed">已关闭</string>
+</resources>
